@@ -22,7 +22,7 @@ Instalar los siguientes módulos con npm de manera global:
 ```console
 npm install -g angular-cli@1.0.0-beta.5
 npm install -g firebase-tools
-npm i --save-dev broccoli-typescript
+npm install broccoli-typescript-compiler --save-dev
 ```
 
 ## Instalación
