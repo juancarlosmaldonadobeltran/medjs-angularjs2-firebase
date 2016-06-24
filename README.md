@@ -2,7 +2,7 @@
 
 Angular 2 y Firebase
 
-Angular cli permite estandarizar las aplicaciones angular siguiendo la guía de estilos de John Papa.
+Angular cli permite estandarizar las aplicaciones Angular siguiendo la guía de estilos de John Papa.
 
 ## Introducción
 
@@ -16,7 +16,7 @@ Ventajas
 https://firebase.google.com/pricing/
 ```
 
-## Prerequisitos
+## Prerrequisitos
 
 Instalar los siguientes módulos con npm de manera global:
 ```console
